@@ -14,13 +14,13 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=c,c-sharp,html,css,js,react,next,mysql,github,vscode,docker,discord," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,cs,unity,html,css,js,react,next,mysql,github,vscode,visualstudio,rider,docker,discord," /> <br /><br />
 
 <br>
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=cshrp,cpp,docker,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,rider,docker,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
