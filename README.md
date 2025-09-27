@@ -2,6 +2,7 @@
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 
+<br>
 
 # SNS
 
@@ -9,16 +10,17 @@
 <a href="https://twitter.com/[Kapi_0622]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Kapi_0622]" height="30" width="40" /></a>
 </p>
 
-
+<br>
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=c,c#,html,css,js,react,next,mysql,github,vscode,docker,discord," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,c-sharp,html,css,js,react,next,mysql,github,vscode,docker,discord," /> <br /><br />
 
+<br>
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=c#,cpp,docker,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=cshrp,cpp,docker,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
