@@ -1,13 +1,9 @@
 # Game Developer in Japan🎮
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
-#
-![Kapi0622's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kapi0622_name&show_icons=true&theme=vue-dark)
-
-[![My Twitter Followers](https://badgen.net/twitter/follow/Kapi_0622)](https://twitter.com/Kapi_0622)
 
 
-#SNS
+# SNS
 
 <p align="left">
 <a href="https://twitter.com/[Kapi_0622]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Kapi_0622]" height="30" width="40" /></a>
@@ -17,14 +13,12 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=c,csharp,html,css,js,react,next,mysql,github,vscode,docker,discord," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,c#,html,css,js,react,next,mysql,github,vscode,docker,discord," /> <br /><br />
 
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=csharp,cpp,docker,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c#,cpp,docker,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
