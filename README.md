@@ -23,6 +23,7 @@
 
 <img src="https://skillicons.dev/icons?i=c,cs,unity,html,css,js,react,next,mysql,github,vscode,visualstudio,rider,docker,discord," /> <br /><br />
 
+※Includes that can only be used a little …
   
 # NOW TRAINING
 
